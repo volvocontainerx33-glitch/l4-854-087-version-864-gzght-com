@@ -1,0 +1,10 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 12,
+  "m3u8_source_count": 20,
+  "logo": "欧美最新影片",
+  "title": "欧美最新影片-最新影片合集-高清视频在线播放",
+  "cover_rule": "X = ((N - 1) % 150) + 1",
+  "html_pages": 2017
+}
